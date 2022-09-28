@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(232, 249, 237);
+}
+
+h2 {
+    color: rgb(224, 69, 222);
+    font-family: cursive;
+    text-decoration: underline;
+}
+
+h3 {
+    color: rgb(47, 98, 10);
+}
+
+p {
+    font-size: small;
+    color: rgb(65, 142, 30);
+}
+
+ol {
+    font-style: oblique;
+}
+
+a {
+    color: purple;
+}
+
+.formStyle{
+    background-color: white;
+    padding: 15px;
+    border-style: solid;
+    font-weight: 900px;
+    font-style: italic;
+    width: 30%;
+    margin-top: 20px;
+}
+input[type=button] {
+    color: rgb(16, 16, 16);
+    background-color:rgb(0,200.0)  ;
+    padding: 5px;
+    margin-top: 20px;
+}
+
+.picStyle{
+    width: 160px;
+    height: 160px;
+}
+
+#paraStyle {
+    text-decoration: underline;
+    font-size: x-large;
+}
+
+.favFoodsList {
+    text-decoration: underline;
+    font-size: x-large;
+}
+
+.favPlacesList {
+    text-decoration: underline;
+    font-size: x-large;
+}
+
+.divFood{
+    background-color: rgb(138, 231, 231);
+    padding: 16px;
+    margin: 24px;
+    border: solid;
+}
+
+.divPlace {
+    background-color: rgb(203, 132, 217);
+    padding: 16px;
+    margin: 24px;
+    border: solid;
+}
